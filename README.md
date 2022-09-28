@@ -1,7 +1,7 @@
 
 
 
-## 👋 Hi, I’m Eje Nathaniel
+# 👋 Hi, I’m Eje Nathaniel
 
 ## 🚀 About Me
 - 👀 I’m interested in web development
